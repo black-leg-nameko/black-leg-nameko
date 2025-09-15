@@ -21,7 +21,6 @@ CyberSecurity
 </picture>
 
 
-## Snake Game
 ![snake animation](https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg)
 
 <!-- Metrics -->
