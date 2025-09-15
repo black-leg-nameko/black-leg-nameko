@@ -1,7 +1,7 @@
 name: generate-snake
 on:
   schedule:
-    - cron: "0 48 * * *"   # 毎日UTC 0時に実行
+    - cron: "0 0 * * *"   # 毎日UTC 0時に実行
   workflow_dispatch:
 jobs:
   build:
