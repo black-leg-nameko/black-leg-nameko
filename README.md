@@ -26,10 +26,6 @@ CyberSecurity
   <img alt="snake animation" src="https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg">
 </picture>
 
-<!-- Metrics -->
-<p align="left">
-  <img src="./metrics.svg?v=1" alt="metrics" width="100%">
-</p>
 
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
