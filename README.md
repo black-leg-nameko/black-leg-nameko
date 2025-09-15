@@ -21,7 +21,10 @@ CyberSecurity
 </picture>
 
 
-![snake animation](https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake-dark.svg">
+  <img alt="snake animation" src="https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg">
+</picture>
 
 <!-- Metrics -->
 <p align="left">
