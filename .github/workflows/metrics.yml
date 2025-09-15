@@ -3,7 +3,8 @@ on:
   schedule:
     - cron: "0 0 * * *"   # 毎日UTC 00:00
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}  # repo, read:org, read:user 推奨
-          user: <username>
+          user: black-leg-nameko
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
