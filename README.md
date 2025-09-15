@@ -14,12 +14,15 @@ CyberSecurity
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
 </picture>
 
-
 <!-- Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=tokyo-night">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=tokyo-night">
 </picture>
+
+
+## Snake Game
+![snake animation](https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg)
 
 <!-- Metrics -->
 <p align="left">
