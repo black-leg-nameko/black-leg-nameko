@@ -1,0 +1,25 @@
+name: metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 毎日UTC 00:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}  # repo, read:org, read:user 推奨
+          user: <username>
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tokyo
+          plugin_achievements: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_notable: yes
+          output_action: commit
+          committer_message: "chore(metrics): update metrics.svg"

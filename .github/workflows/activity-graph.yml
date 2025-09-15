@@ -1,0 +1,13 @@
+name: activity-graph
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl graph to warm cache
+        run: |
+          curl -sSL "https://github-readme-activity-graph.vercel.app/graph?username=<username>&hide_border=true" >/dev/null
