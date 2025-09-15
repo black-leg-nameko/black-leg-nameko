@@ -26,16 +26,6 @@ CyberSecurity
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=minimal">
 </picture>
 
-<!-- Skill Icons: skillicons.dev -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,rust,react,nextjs,laravel,docker,aws,linux,git&perline=8" alt="skills" />
-</p>
-
-<!-- 代表プロジェクト（バッジでサマリ） -->
-## Selected Work
-[![Repo1](https://img.shields.io/badge/repo-ProjectA-blue?logo=github)](https://github.com/black-leg-nameko/ProjectA)
-[![Repo2](https://img.shields.io/badge/repo-ProjectB-blue?logo=github)](https://github.com/black-leg-nameko/ProjectB)
-[![Paper](https://img.shields.io/badge/paper-Blockchain_Security-black)](<link_to_paper_or_slide>)
 
 <!-- Metrics（総合メトリクスSVG。下のActionsで自動生成） -->
 <p align="left">
