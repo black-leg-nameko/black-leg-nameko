@@ -1,5 +1,7 @@
 # black-leg
-
+<picture>
+  <img alt="z-gn" src="./src/z-gn.png">
+</picture>
 
 <!-- GitHub Stats -->
 <picture>
