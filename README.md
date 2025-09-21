@@ -32,4 +32,3 @@
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
 - X: https://x.com/BlackLeg_nmk
-- Email: ryutokitajima14@gmail.com
