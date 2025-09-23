@@ -1,4 +1,3 @@
-
 # black-leg
 <!-- z-gun-pic -->
 <picture>
