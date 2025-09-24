@@ -1,5 +1,5 @@
-
 # black-leg
+暗号理論やブロックチェーンの研究をしています。
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
