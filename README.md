@@ -1,5 +1,6 @@
 # black-leg
 暗号理論やブロックチェーンの研究をしています。
+人工知能のセキュリティ分野への応用にも興味があります
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
