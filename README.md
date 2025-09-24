@@ -1,5 +1,5 @@
 # black-leg
-conducting research in cryptography and blockchain<br>
+Im conducting research on cryptography and blockchain, and Im also interested in applying AI to cybersecurity.<br>
 also interesting in applying AI to the field of cybersecurity.
 <!-- z-gun-pic -->
 <picture>
