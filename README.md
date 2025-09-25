@@ -2,7 +2,7 @@
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 ```php
 username: admin' --
-password: （空でもOK）
+password: hoge
 ```
 <!-- z-gun-pic -->
 <picture>
