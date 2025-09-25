@@ -1,7 +1,8 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 ```php
-$sql = "SELECT * FROM users WHERE name = '$username' AND password = '$password'";
+username: admin' --
+password: （空でもOK）
 ```
 <!-- z-gun-pic -->
 <picture>
