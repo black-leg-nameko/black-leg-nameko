@@ -1,10 +1,7 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 ```php
-$username = $_POST['username'];
-$password = $_POST['password'];
-
-$sql = "SELECT * FROM users WHERE username = '$username' AND password = '$password'";
+$sql = "SELECT * FROM users WHERE name = '$username' AND password = '$password'";
 ```
 <!-- z-gun-pic -->
 <picture>
