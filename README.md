@@ -1,5 +1,8 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
+```php
+$sql = "SELECT * FROM users WHERE name = '$name'";
+```
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
