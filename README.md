@@ -1,8 +1,7 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 ```php
-username: admin' --
-password: hoge
+SELECT * FROM users WHERE name = 'admin' --' AND password = 'hoge'
 ```
 <!-- z-gun-pic -->
 <picture>
