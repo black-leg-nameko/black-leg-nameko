@@ -1,15 +1,5 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
-```JSON
-{
-  "task": "FixVulnerability",
-  "vulnerability_type": "SQL Injection",
-  "file_path": "app/db.py",
-  "function": "get_user_by_name",
-  "vulnerable_code": "query = \"SELECT * FROM users WHERE name = '\" + name + \"'\"",
-  "line_number": 42,
-}
-```
 
 
 <!-- z-gun-pic -->
