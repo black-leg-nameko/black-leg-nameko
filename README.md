@@ -1,7 +1,7 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 
-日本語で言っとんねん
+なんでやねん
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
