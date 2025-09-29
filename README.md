@@ -1,6 +1,6 @@
 # black-leg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
-とりあえ
+前までは福岡就職で考えていたけど、英語を頑張りたいから外資もいいなぁと
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
