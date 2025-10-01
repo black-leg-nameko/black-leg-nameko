@@ -23,6 +23,7 @@ Researching cryptography and blockchain; interested in applying AI to cybersecur
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake-dark.svg">
   <img alt="snake animation" src="https://github.com/black-leg-nameko/black-leg-nameko/blob/output/snake.svg">
 </picture>
+
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
 - X: https://x.com/BlackLeg_nmk
