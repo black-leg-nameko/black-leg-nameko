@@ -7,7 +7,7 @@ Researching cryptography and blockchain; interested in applying AI to cybersecur
 <!-- GitHub Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=monokai">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
 </picture>
 <!-- Top Languages -->
 <picture>
