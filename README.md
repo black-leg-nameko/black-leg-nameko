@@ -16,7 +16,7 @@ Researching cryptography and blockchain; interested in applying AI to cybersecur
 </picture>
 <!-- Activity Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=monokai">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=catppuccin_mocha">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=black-leg-nameko&hide_border=true&area=true&theme=monokai">
 </picture>
 <picture>
