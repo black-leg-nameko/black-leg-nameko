@@ -1,6 +1,5 @@
 # blackleg
-Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
-I me
+Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>a
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
