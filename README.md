@@ -1,6 +1,6 @@
 # blackleg
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
-みんなも飲めるから金曜日の19時だから飲んでこ
+みんなも飲めるから金曜日の19時だから飲ん
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
