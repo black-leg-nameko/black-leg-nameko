@@ -1,5 +1,5 @@
 # blackleg
-からあげクンは何味が好きですか？フレーバーが豊富
+からあげクンは何味が好きですか？
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 <!-- z-gun-pic -->
 <picture>
