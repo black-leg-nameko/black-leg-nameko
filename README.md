@@ -1,4 +1,4 @@
-# blacklegあなたの本当の優
+# blacklegあなたの本当の
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 <!-- z-gun-pic -->
 <picture>
