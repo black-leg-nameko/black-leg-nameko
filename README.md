@@ -1,4 +1,4 @@
-# blackleg 123
+# blackleg 12
 Researching cryptography and blockchain; interested in applying AI to cybersecurity.<br>
 <!-- z-gun-pic -->
 <picture>
