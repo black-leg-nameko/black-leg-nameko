@@ -18,3 +18,4 @@ Researching cryptography and blockchain; interested in applying AI to cybersecur
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
 - X: https://x.com/BlackLeg_nmk
+- Zenn: https://zenn.dev/black_leg
