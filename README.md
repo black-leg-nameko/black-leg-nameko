@@ -15,6 +15,9 @@ Researching blockchain; interested in applying AI to cybersecurity.<br>
   <img alt="Top Langs" src="https://github-readme-stats-6v9a.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
 </picture>
 
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,python,go,typescript,next,laravel,terraform,aws,gcp" />
+<br>
+
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
 - X: https://x.com/BlackLeg_nmk
