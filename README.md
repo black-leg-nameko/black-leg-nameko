@@ -22,8 +22,8 @@ Researching blockchain; interested in applying AI to cybersecurity.<br>
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,python,go,typescript,next,laravel" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=kali,arch" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=kali" />
+
 
 ## Links
 - Portfolio: https://black-leg-nameko.github.io/portfolio/
