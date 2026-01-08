@@ -6,13 +6,13 @@ Researching blockchain; interested in applying AI to cybersecurity.<br>
 </picture>
 <!-- GitHub Stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-roan-one-82.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
+  <img alt="GitHub Stats" src="https://github-readme-stats-roan-one-82.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
 </picture>
 <!-- Top Languages -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-roan-one-82.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
+  <img alt="Top Langs" src="https://github-readme-stats-roan-one-82.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
 </picture>
 
 ## Links
