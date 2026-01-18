@@ -27,6 +27,6 @@ Researching blockchain; interested in applying AI to cybersecurity.<br>
 
 
 ## Links
-- Portfolio: https://black-leg-nameko.github.io/portfolio/
+- Portfolio: [https://black-leg-nameko.github.io/portfolio/](https://portfolio-nine-lemon-74.vercel.app/)
 - X: https://x.com/BlackLeg_nmk
 - Zenn: https://zenn.dev/black_leg
