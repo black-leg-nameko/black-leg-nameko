@@ -1,6 +1,6 @@
 # black-leg
 
-Researching blockchain; interested in applying AI to cybersecurity.<br>
+Researching blockchain and LLM security; interested in applying AI to cybersecurity.<br>
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
