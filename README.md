@@ -21,9 +21,10 @@ Researching blockchain and LLM security; interested in applying AI to cybersecur
 
 <br>
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,python,go,typescript,next,laravel" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=kali" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,python,go,typescript,next,laravel" />
+
 
 
 ## Links
