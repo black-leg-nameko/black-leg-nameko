@@ -28,6 +28,6 @@ Researching LLM security and blockchain; interested in applying AI to cybersecur
 
 
 ## Links
-- Portfolio: [https://portfolio-nine-lemon-74.vercel.app/]
+- Portfolio: [https://portfolio-nine-lemon-74.vercel.app/](https://portfolio-nine-lemon-74.vercel.app/)
 - X: [https://x.com/kitanmk](https://x.com/kitanmk)
 - Zenn: https://zenn.dev/black_leg
