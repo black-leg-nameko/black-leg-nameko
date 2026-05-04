@@ -1,6 +1,6 @@
 # black-leg
 
-Researching AI security and blockchain; interested in applying AI to cybersecurity.<br>
+Researching AI security and blockchain;<br>
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
@@ -25,9 +25,3 @@ Researching AI security and blockchain; interested in applying AI to cybersecuri
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,terraform" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,python,go,typescript,next,laravel" />
 
-
-
-## Links
-- Portfolio: [https://portfolio-nine-lemon-74.vercel.app/](https://portfolio-nine-lemon-74.vercel.app/)
-- X: [https://x.com/blacklegnmk](https://x.com/blacklegnmk)
-- Zenn: [https://zenn.dev/black_leg](https://zenn.dev/blackleg)
