@@ -1,6 +1,6 @@
 # black-leg
 
-Researching AI security and blockchain;<br>
+Researching AI security, blockchain;<br>
 <!-- z-gun-pic -->
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
