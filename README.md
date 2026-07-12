@@ -5,19 +5,6 @@ Researching AI security and blockchain;<br>
 <picture>
   <img alt="z-gn" src="./src/z-gn.png">
 </picture>
-<!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-6v9a.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
-  <img alt="GitHub Stats" src="https://github-readme-stats-6v9a.vercel.app/api?username=black-leg-nameko&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha">
-</picture>
-
-<br>
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-6v9a.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
-  <img alt="Top Langs" src="https://github-readme-stats-6v9a.vercel.app/api/top-langs/?username=black-leg-nameko&layout=compact&hide_border=true&langs_count=8&theme=catppuccin_mocha">
-</picture>
 
 <br>
 
